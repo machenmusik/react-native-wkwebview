@@ -16,7 +16,7 @@ React Native comes with [WebView](http://facebook.github.io/react-native/docs/we
 **Alternative #2**
 
 1. Install from npm (note the postfix in the package name): `npm install react-native-wkwebview-reborn`
-2. run `rnpm link`
+2. run `npm link`
 
 **Notes to iOS 8:**
 
